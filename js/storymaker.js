@@ -65,4 +65,4 @@ randomBtn.onclick = function() {
 
 // Adding student name dynamically
 const studentIdElement = document.getElementById('studentId');
-studentIdElement.textContent = "Student Name: John Doe - ID: 123456789";
+studentIdElement.textContent = "Student Name: Alexander Rothermel - ID: 1235416";
