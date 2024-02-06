@@ -1,0 +1,33 @@
+body {
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    background-color: #F2EAD3;
+    color: #333;
+    padding: 20px;
+}
+
+h1, h2 {
+    color: #E85A71;
+    text-shadow: 2px 2px 4px #F2BAC9;
+}
+
+button {
+    background-color: #57A773;
+    color: #FFF;
+    border: 2px solid #F2BAC9;
+    border-radius: 10px;
+    padding: 10px 20px;
+    margin: 5px;
+    cursor: pointer;
+    transition: transform 0.3s ease, background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #3C896D;
+    transform: scale(1.05);
+}
+
+p {
+    color: #333;
+    font-size: 18px;
+    margin-bottom: 15px;
+}
